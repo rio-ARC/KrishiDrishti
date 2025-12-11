@@ -1,0 +1,22 @@
+{
+  "name": "Krishi-Drishti",
+  "short_name": "Krishi-Drishti",
+  "description": "AI-powered agricultural assistant for Indian farmers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2D5016",
+  "theme_color": "#4A7C59",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjE5MiIgaGVpZ2h0PSIxOTIiIGZpbGw9IiMyRDUwMTYiLz48cGF0aCBkPSJNOTYgNDhMMTQ0IDk2IDk2IDE0NCA0OCA5NnoiIGZpbGw9IiNGRkQ3MDAiLz48cGF0aCBkPSJNOTYgNzJMMTIwIDk2IDk2IDEyMCA3MiA5NnoiIGZpbGw9IiM0QTdDNTkiLz48L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIGZpbGw9IiMyRDUwMTYiLz48cGF0aCBkPSJNMjU2IDEyOEwzODQgMjU2IDI1NiAzODQgMTI4IDI1NnoiIGZpbGw9IiNGRkQ3MDAiLz48cGF0aCBkPSJNMjU2IDE5MkwzMjAgMjU2IDI1NiAzMjAgMTkyIDI1NnoiIGZpbGw9IiM0QTdDNTkiLz48L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
